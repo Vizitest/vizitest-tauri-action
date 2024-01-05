@@ -1,5 +1,5 @@
-name: 'tauri-action'
-description: 'Build tauri binaries for MacOS, Windows and Linux'
+name: 'vizitest-tauri-action'
+description: 'Build tauri binaries for MacOS, Windows (not only bundles) and Linux'
 icon: 'download-cloud'
 color: 'blue'
 author: 'Lucas Nogueira <lucas@tauri.studio>'
